@@ -1,5 +1,5 @@
 #!/usr/bin/node
-//Script that uses conole.log() for printing
-const.log('C is fun');
-const.log('Python is cool');
-const.log('JavaScript is amazing');
+// Script that uses console.log for printing
+console.log('C is fun');
+console.log('Python is cool');
+console.log('JavaScript is amazing');
